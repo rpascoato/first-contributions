@@ -97,6 +97,7 @@ Jojo Nigs
 - [Alonso Garcia](https://github.com/abg287) **Awesome Sauce**
 - [Kunal Suraniya](https://github.com/suraniyakunal) ** It's Fun
 - [Gilberto Valdez Arreola] (https://github.com/GilVA1) ** step zero **
+- [Raphael Pascoato] (https://github.com/rpascoato)
 Sabrina J Valcin
 - [Josef Wolf](https://github.com/JosefJW)
 - [Thilina Jayamal](https://github.com/ThilinaJayamal)
